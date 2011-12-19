@@ -17,8 +17,8 @@ setup(
     packages=['gp10'],
     author='John Hampton',
     description='SQLAlchemy table definitions for Dynamics:GP 10',
-    url='https://pacopablo.com/wiki/Dev/GP10',
-    license='BSD',
+    url='http://pacopablo.github.com/gp10/',
+    license='MIT',
     zip_safe=False,
     install_requires = ['SQLAlchemy>=0.5.0rc2'],
 )
